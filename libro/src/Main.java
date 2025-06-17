@@ -108,6 +108,44 @@ public class Main {
                 }
                 break;
             case 6:
+                byte edad=18;
+                int numeroGrande =1000;
+                if(edad>=18){
+                    System.out.println("Puedes entrar");
+                }else{
+                    System.out.println("No puedes entrar");
+                }
+                break;
+            case 7:
+                else if (opcion==2){
+                int suma;
+                System.out.println( " Ingrese el valor de X ");
+                int x=leer.nextInt();
+
+                System.out.println( " Ingrese el valor de y ");
+                int y=leer.nextInt();
+
+                System.out.println( " Ingrese el valor de z ");
+                int z=leer.nextInt();
+
+                if ( x=y&&x!=z&&y!=z)
+                    suma=z;
+                else
+                if ( x=z&&y!=x&&y!=z)
+                    suma=y;
+                else
+                if (y=z&&x!=y&&x!=z)
+                    suma=x;
+                else
+                if(x=y&&x==z&&y==z)
+                    suma=0;
+                else
+                    suma=x+y+z;
+
+                System.out.println( " La suma es "+ suma);
+            }
+
+
 
         }
         leer.close();
