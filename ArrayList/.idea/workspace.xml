@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f225b1b-3664-484e-8945-6348a3f2d4cc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../S9_Libreria/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S9_Libreria/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S9_Libreria/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S9_Libreria/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S9_Libreria/S9_Libreria.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S9_Libreria/src/Libro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guia/src/Libreria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rrr/src/Medicina.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S8_objetos/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../S8_objetos/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2ypF06ma5VV970WJ9EoP1dbYvCQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "onboarding.tips.debug.path": "C:/Users/angel/OneDrive/Documentos/IdeaProjects/ArrayList/src/Main.java"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f225b1b-3664-484e-8945-6348a3f2d4cc" name="Changes" comment="" />
+      <created>1750523382733</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750523382733</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
